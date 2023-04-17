@@ -5,4 +5,4 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = Piano_app()
     ex.show()
-    sys.exit(app.exec_())
+    sys.exit(app.exec_()) 
