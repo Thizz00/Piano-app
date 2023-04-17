@@ -15,8 +15,7 @@ class TestGuiApp(unittest.TestCase):
         app = QApplication([])
         gui_app = Gui_App()
         self.assertEqual(gui_app.play_sound("C.wav"))
-        # assert that the sound was played
-        # TODO: find a way to test QSound.play() method
+   
 
 if __name__ == '__main__':
     unittest.main()
