@@ -4,7 +4,7 @@
 
 #### A GUI application for playing the piano in 3 octaves, consisting of buttons and corresponding sound file tracks corresponding to a certain sound on the piano.
 
-![image](https://github.com/Thizz00/Search-for-your-zip-code/blob/main/Zip_code.png)
+![image](https://github.com/Thizz00/Piano-app/blob/main/Piano.png)
 
 ### Running the app
 
